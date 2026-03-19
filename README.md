@@ -21,6 +21,6 @@ using a three-branch neural architecture.
 pip install -r requirements.txt
 streamlit run 05_dashboard.py
 
-## 📚 MCA AI & ML Major Project
+## 📚AI & ML Major Project
 <img width="1470" height="956" alt="Screenshot 2026-03-19 at 11 40 38 AM" src="https://github.com/user-attachments/assets/4e70e387-82a4-4ad6-8ea3-16507385d82b" />
 <img width="1470" height="956" alt="Screenshot 2026-03-19 at 11 40 06 AM" src="https://github.com/user-attachments/assets/7e71db87-5697-4878-b16d-6734fb14790e" />
